@@ -1,3 +1,3 @@
 # Justice🌊
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&&color=0:87CEFA,100:6495ED&text=Hi,%20I'm%20JeongEui&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=00008B&fontAlign=50&fontAlignY=41)
+![Frame 2](https://github.com/user-attachments/assets/461fa8a7-b2a6-43f3-9f96-ca9b6e0e4aeb)
