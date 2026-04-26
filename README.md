@@ -57,4 +57,4 @@
 ---
 
 ### 📫 Contact
-![Email](https://img.shields.io/badge/definition0215@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:definition0215@gmail.com)
