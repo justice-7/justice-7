@@ -55,6 +55,8 @@
 | 🪐 PlanetRush | 2024.07.02 ~ 2024.08.16 | Java, Spring Boot, Spring data jpa, Python, Flask, MySQL | 챌린지 기반 목표 달성 서비스     |
 
 ---
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=justice7)](https://solved.ac/justice7)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-7&show_icons=true)
+---
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:definition0215@gmail.com)
